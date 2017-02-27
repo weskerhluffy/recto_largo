@@ -6,7 +6,7 @@ Created on 21/02/2017
 import logging
 import sys
 nivel_log = logging.ERROR
-nivel_log = logging.DEBUG
+#nivel_log = logging.DEBUG
 logger_cagada = None
 
 pila_mierda = []
